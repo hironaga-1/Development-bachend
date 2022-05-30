@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"App\\Tests\\SpamCheckerTest::testSpamScoreWithInvalidRequest":0.053,"App\\Tests\\Controller\\ConferenceControllerTest::testIndex":1.074}}
+{"version":1,"defects":[],"times":{"App\\Tests\\SpamCheckerTest::testSpamScoreWithInvalidRequest":0.052,"App\\Tests\\Controller\\ConferenceControllerTest::testIndex":0.858,"App\\Tests\\Controller\\ConferenceControllerTest::testConferencePage":0.395,"App\\Tests\\Controller\\ConferenceControllerTest::testCommentSubmission":2.346}}
